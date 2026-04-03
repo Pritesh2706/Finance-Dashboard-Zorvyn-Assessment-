@@ -49,4 +49,5 @@ This finance dashboard provides users with a clear view of their financial activ
 
 ## Get in Touch 📬  
 
-- **GitHub**: https://github.com/Pritesh2706/Finance-Dashboard-Zorvyn-Assessment
+- **GitHub**: https://github.com/Pritesh2706/Finance-Dashboard-Zorvyn-Assessment-
+  
